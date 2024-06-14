@@ -1,0 +1,10 @@
+[package]
+name = "iceeburr/profileservice"
+version = "1.0.0"
+authors = ["loleris"]
+description = "Profile Service fork for wally."
+license = "Apache License 2.0"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+
+[dependencies]
